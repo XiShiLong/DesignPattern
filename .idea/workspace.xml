@@ -2,376 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60102e31-d6e0-4a7e-a4d0-581fcb3ba933" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GoProgram/gateway-server-nb-valve" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-ct10649-new/gateway-for-ct10649.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.idea/gateway-for-huizhong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/Message/Message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/Message/SendMessage/GetFirstKindMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/Message/SendMessage/SendAction.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/Message/SendMessage/SendMessage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/README.en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/app.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/seelog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/server/Receive.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gateway-for-huizhong/server/Send.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/command/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/command/src/main/resources/ca.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/command/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/command/src/main/resources/outgoing.CertwithKey.pkcs12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/command/src/main/resources/tomcat.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/BurntSushi/toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Luxurioust/excelize" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/MongoToMysql/.idea/MongoToMysql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/MongoToMysql/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/MongoToMysql/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/MongoToMysql/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/db/sqlite.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/message/upDataMessage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/message/upDataReplyMessage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/message/upSwitchMessage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/queue.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/secure/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/secure/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/secure/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/seelog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/server/httpServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/server/mqttServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/server/tcpServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/server/udpServer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/upLeve/upLive.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/util/util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OTA/work/work.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Shopify/sarama" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Unknwon/com" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Unknwon/goconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/astaxie/beedb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/astaxie/beego" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/beego/bee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/beego/i18n" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/beego/samples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/bsm/sarama-cluster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/cihub/seelog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/confluentinc/confluent-kafka-go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/data-push/main/HttpReceiver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/davecgh/go-spew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/deckarep/golang-set" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/eapache/go-resiliency" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/eapache/go-xerial-snappy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/eapache/queue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/eclipse/paho.mqtt.golang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/garyburd/redigo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-for-huizhong" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-for-onenet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/.idea/gateway-server-edge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/db/mongo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/db/mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/db/sqlite.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/doc/揽月边缘计算模块通讯协议V1.1.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/ActionMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/ActionReply.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/CollectConfigMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/CollectConfigReplyMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/ControlMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/ControlReplyMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/HeartbeatMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/VersionMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/VersionReplyMsg.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/message/message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/mq/mq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/pkg/windows_386/github.com/Unknwon/goconfig.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/queue.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/seelog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/server/tcpserver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/server/udpserver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/src/github.com/Unknwon/goconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/src/github.com/jtolds/gls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/src/github.com/smartystreets/assertions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/src/github.com/smartystreets/goconvey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-edge/util/util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-nb-valve" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-ota" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gateway-server-tl-valv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gin-contrib/sse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gin-gonic/gin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/BurntSushi/toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/Unknwon/goconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/bford/golang-x-crypto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/cihub/seelog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/eclipse/paho.mqtt.golang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gin-contrib/sse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gin-gonic/gin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/go-mgo/mgo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/go-sql-driver/mysql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gohouse/gocar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gohouse/gorose" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gohouse/t" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/golang/crypto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/golang/protobuf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/gorilla/websocket" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/jessevdk/go-flags" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/jtolds/gls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/kr/pretty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/kr/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/libp2p/go-buffer-pool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/mattn/go-isatty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/mattn/go-sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/nats-io/go-nats" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/nats-io/nats-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/nats-io/nkeys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/nats-io/nuid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/pkg/profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/rogpeppe/godef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/smartystreets/assertions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/smartystreets/goconvey" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/sqs/goreturns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/stamblerre/gocode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/stretchr/testify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/uber/go-torch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/github.com/ugorji/go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gizak/termui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-buffer-pool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-log/log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-mgo/mgo.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-sql-driver/mysql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-xorm/builder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-xorm/core" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go-xorm/xorm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HeartPraise/heart.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HeartPraise/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/.idea/HttpReceive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/Client/main/ReceiveClient.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/Client/main/ReceiveClient.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/Client/main/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/HttpReceive/Client/main/queue.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/.idea/demo-mqtt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/app.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/mqtt/mqtt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/secure/ca.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/secure/client.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/secure/client.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/demo-mqtt/seelog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/paho.mqtt.golang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/pretreat-dtu/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/pretreat-dtu/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/pretreat-dtu/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/pretreat-dtu/.idea/pretreat-dtu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/go/pretreat-dtu/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/goburrow/modbus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/goburrow/serial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gohouse.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gohouse/converter" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gohouse/gorose" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/golang.org/x/crypto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/golang.org/x/net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/golang.org/x/tools" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/golang/protobuf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/golang/snappy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gomodule/redigo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gopkg.in/check.v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gopkg.in/go-playground/validator.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gopkg.in/mgo.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gopkg.in/tomb.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gopkg.in/yaml.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gorilla/websocket" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/gpmgo/gopm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/grd/stat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/grd/statistics" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/hashicorp/consul" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/howeyc/fsnotify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/imroc/biu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/Myclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/MqClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/OnenetMq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/PushCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/SslUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/java/com/onenet/mq/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/proto/onenet-mq.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/src/main/resources/mqca/certificate.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/MqClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/MyListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq$Msg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq$Msg$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq$Msg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq$MsgOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/OnenetMq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/PushCallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/SslUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/Token$SignatureMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/com/onenet/mq/Token.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/Myclient/target/classes/mqca/certificate.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/java/com/onenet/mq/MqClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/java/com/onenet/mq/OnenetMq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/java/com/onenet/mq/PushCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/java/com/onenet/mq/SslUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/java/com/onenet/mq/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/proto/onenet-mq.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/OneNET-MQ-Reconn-demo/src/main/resources/mqca/certificate.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/java/mqtt-client" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/jeanphorn/log4go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/kardianos/govendor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/kataras/golog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/kataras/iris" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/kataras/pio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/linkedin/Burrow" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-isatty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-runewidth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/custom_func/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/hook/hook.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/limit/limit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_regexp/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_regexp/extension.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_regexp/sqlite3_mod_regexp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_vtable/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_vtable/extension.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_vtable/picojson.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/mod_vtable/sqlite3_mod_vtable.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/simple/simple.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/trace/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/vtable/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/_example/vtable/vtable.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/backup.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/backup_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/callback.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/callback_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/error.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/error_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3-binding.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3-binding.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_func_crypt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_func_crypt_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_go18.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_go18_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_libsqlite3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_load_extension.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_load_extension_omit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_allow_uri_authority.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_app_armor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_foreign_keys.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_fts3_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_fts5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_icu.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_introspect.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_json1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_secure_delete.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_secure_delete_fast.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_stat4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_userauth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_userauth_omit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_userauth_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_vacuum_full.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_vacuum_incr.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_vtable.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_opt_vtable_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_other.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_solaris.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_trace.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_usleep_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/sqlite3ext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/static_mock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/upgrade/package.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mattn/go-sqlite3/upgrade/upgrade.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/meitu/go-consumergroup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mgo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/micro/go-log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/micro/go-micro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/micro/go-rcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/micro/util" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mitchellh/go-wordwrap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mitchellh/hashstructure" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/mohae/deepcopy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/nats-io/gnatsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/nats-io/go-nats" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/nats-io/nkeys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/nats-io/nuid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/new-gateway-server-nb-value/gateway-server-nb-valve" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/nsf/termbox-go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/pborman/uuid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/pierrec/lz4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/pretreat-nb-valve" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/rakyll/gom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/rcrowley/go-metrics" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/robfig/cron" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/samuel/go-zookeeper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/segmentio/kafka-go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/shiyanhui/hero" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/sirupsen/logrus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/sundy-li/burrowx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tealeg/xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/.idea/test_json.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test_json/main/mian.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/toolkits/file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/tools/godep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ugorji/go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/websocket" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/xuri/excelize" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/原型模式/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../haha.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../haha.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/设计模式学习/结构型模式/装饰器模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/设计模式学习/结构型模式/装饰器模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoStudy" beforeDir="false" afterPath="$PROJECT_DIR$/../GoStudy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -387,32 +22,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/Flyweight.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/IBuyer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="95">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/ConcreteFlyweight.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/Buyer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="171">
+              <caret line="11" column="78" lean-forward="true" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
               <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/FlyweightFactory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/BuyerProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="133">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Ticketer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/jdk动态代理/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#494#712#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Translator_editor/jdk/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="457" column="29" selection-start-line="457" selection-start-column="29" selection-end-line="457" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -428,20 +131,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/建造者模式/Builder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/建造者模式/Director.java" />
-        <option value="$PROJECT_DIR$/src/main/java/建造者模式/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/原型模式/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/原型模式/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Target.java" />
-        <option value="$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/适配器模式/对象适配器/Target.java" />
         <option value="$PROJECT_DIR$/src/main/java/适配器模式/对象适配器/Adaptee.java" />
         <option value="$PROJECT_DIR$/src/main/java/适配器模式/对象适配器/Adapter.java" />
@@ -484,6 +178,15 @@
         <option value="$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/Flyweight.java" />
         <option value="$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/ConcreteFlyweight.java" />
         <option value="$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/FlyweightFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/IBuyer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/静态代理/IBuyer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/静态代理/Buyer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/静态代理/BuyerProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/静态代理/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/jdk动态代理/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Ticketer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Main.java" />
       </list>
     </option>
   </component>
@@ -501,28 +204,78 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="101" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="367" />
+    <option name="y" value="116" />
     <option name="width" value="1525" />
-    <option name="height" value="935" />
+    <option name="height" value="933" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="代理模式" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="代理模式" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cglib动态代理" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="study" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="设计模式学习" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -551,6 +304,7 @@
       <recent name="简单工厂模式" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\my_git_repository\DesignPattern\src\main\resources" />
       <recent name="D:\Program\git_repository\study\src\main\java\外观模式\使用外观模式" />
       <recent name="D:\Program\git_repository\study\src\main\java\单例模式\饿汉式" />
     </key>
@@ -567,26 +321,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="外观模式.使用外观模式.Client" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="外观模式.使用外观模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="外观模式.不使用外观模式.Client" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="外观模式.不使用外观模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,38 +348,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.静态代理.Main" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.静态代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.jdk动态代理.Main" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.jdk动态代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="组合模式.Main" />
+      <option name="MAIN_CLASS_NAME" value="代理模式.cglib动态代理.Main" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="组合模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="装饰器模式.Main" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="装饰器模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="享元模式.案例代码.Main" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="享元模式.案例代码.*" />
+          <option name="PATTERN" value="代理模式.cglib动态代理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -648,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -694,16 +435,20 @@
       <workItem from="1577156704034" duration="1328000" />
       <workItem from="1577170872995" duration="3571000" />
       <workItem from="1577241055175" duration="375000" />
+      <workItem from="1577241662964" duration="4236000" />
+      <workItem from="1577264286508" duration="606000" />
+      <workItem from="1577339360927" duration="3541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60772000" />
+    <option name="totallyTimeSpent" value="69155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="746" y="75" width="1220" height="748" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.267642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.211126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -712,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30495358" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24512987" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04249292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25162336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -720,9 +465,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32761088" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37993422" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3181818" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3159609" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -738,106 +483,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../Translator_editor/jdk/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/原型模式/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/原型模式/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/适配器模式/类适配器/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/桥接模式/soft/SoftImplementor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/桥接模式/soft/ChatSoft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/桥接模式/soft/GameSoft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/桥接模式/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/桥接模式/phone/MiMobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1168,9 +813,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../git_repository.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../git_repository.iml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/享元模式/案例代码/ExamInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1198,8 +841,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/享元模式/享元模式通俗代码/FlyweightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Translator_editor/jdk/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="730" column="34" selection-start-line="730" selection-start-column="26" selection-end-line="730" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Translator_editor/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4655">
+          <caret line="286" column="38" selection-start-line="285" selection-start-column="60" selection-end-line="287" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Translator_editor/jdk/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="457" column="29" selection-start-line="457" selection-start-column="29" selection-end-line="457" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/IBuyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/Buyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="78" lean-forward="true" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/jdk动态代理/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/静态代理/BuyerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#494#712#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/代理模式/cglib动态代理/Ticketer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
